@@ -1,2 +1,4 @@
 Apredendo git com Rails
 djflsjfksfkjdk
+cap 01
+ola , tudo ok ... tudo sim estou apredendo super bem.
